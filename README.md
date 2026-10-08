@@ -22,3 +22,6 @@ sales trends, revenue performance, and product insights.
 - Data Modeling
 - DAX
 - Data Visualization
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
